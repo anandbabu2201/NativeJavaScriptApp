@@ -1,0 +1,15 @@
+{
+  "name": "nativejavascriptapp",
+  "version": "1.0.0",
+  "description": "Shopping application using native javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "anandbabu2201@github.com"
+  },
+  "author": "Anand Babu",
+  "license": "ISC"
+}
