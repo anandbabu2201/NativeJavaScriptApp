@@ -27,6 +27,8 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "axios": "^0.19.2",
-    "babel-polyfill": "^6.26.0"
+    "babel-polyfill": "^6.26.0",
+    "fractional": "^1.0.0",
+    "uniqid": "^5.2.0"
   }
 }
